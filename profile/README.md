@@ -1,1 +1,2 @@
-![siamese_cat](assets/siamese-cat-siamese.gif)
+![siamese_cat](../assets/siamese-cat-siamese.gif)
+
